@@ -1,0 +1,7 @@
+h1 {
+    white-space: nowrap;
+}
+
+label.ecrs-done {
+    text-decoration: line-through;
+}
