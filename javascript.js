@@ -11,16 +11,25 @@ const language = {
             'upgrade': 'Upgrade Material',
             'consumable': 'Consumable Item',
             'tool': 'Tool',
+            'crafting': 'Crafting Material',
+            'greatsword': 'Greatsword',
+            'flail': 'Flail',
+            'ash-of-war': 'Ash of War',
+            'whetblade': 'Whetblade',
+            'spirit': 'Spirit',
+            'cookbook': 'Cookbook',
         },
         'areas': {
             'chapel-of-anticipation': 'Chapel of Anticipation',
             'stranded-graveyard': 'Stranded Graveyard',
             'limgrave-west': 'Limgrave (West)',
+            'stormhill': 'Stormhill',
         }
     },
     'sections': {
         'stranded-graveyard': 'Stranded Graveyard',
         'limgrave-west': 'Limgrave (West)',
+        'stormhill': 'Stormhill',
     },
     'misc': {
         'done': 'DONE',
@@ -101,7 +110,7 @@ function createCheckbox(sectionId, checkboxId, loot, items) {
         let count, item;
 
         if (typeof key === "string") {
-            count = value + 'x ';
+            count = (parseInt(value, 10) > 1 ? value + 'x ' : '');
             item = key;
         } else {
             count = '';
@@ -117,7 +126,7 @@ function createCheckbox(sectionId, checkboxId, loot, items) {
         <span class="fst-italic">${language.items.areas[loot.area]}</span>
     `);
 
-    const checkbox = $(`<div class="form-check"></div>`);
+    const checkbox = $(`<div class="form-check py-1"></div>`);
     checkbox.append(input, label);
 
     return checkbox;

@@ -8,7 +8,7 @@ Do you have something to add, is there something missing, have you found a bug, 
 
 ## Attributions
 
-A big thanks to [Jame](https://www.youtube.com/channel/UC_ItoO8SMupd_U0ZVPwU6hg) for creating his [100% Walkthrough for Elden Ring](https://www.wow-pro.com/elden-ring-100-walkthrough-ultimate-guide/) and letting me use it as the base for this Cheat Sheet.
+A big thanks to [Jame](https://www.youtube.com/c/JamesGuides7) for creating the [100% Walkthrough for Elden Ring](https://www.wow-pro.com/elden-ring-100-walkthrough-ultimate-guide/) and letting me use it as the base for this Cheat Sheet.
 
 Also thanks all the Cheat Sheets that came before which I used extensively for the Souls games.
  * The original [Dark Souls Cheat Sheet](https://github.com/smcnabb/dark-souls-cheat-sheet) and [Dark Souls 2 Cheat Sheet](https://github.com/smcnabb/dark-souls-2-cheat-sheet) by [Stephen McNabb](https://github.com/smcnabb).

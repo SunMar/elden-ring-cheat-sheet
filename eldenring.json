@@ -55,10 +55,105 @@
             "name": "Small Golden Effigy",
             "wiki": "https://eldenring.wiki.fextralife.com/Small+Golden+Effigy"
         },
+        "golden-rune-1": {
+            "type": "rune",
+            "name": "Golden Rune [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(1)"
+        },
         "golden-rune-2": {
             "type": "rune",
             "name": "Golden Rune [2]",
             "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(2)"
+        },
+        "golden-rune-3": {
+            "type": "rune",
+            "name": "Golden Rune [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(3)"
+        },
+        "golden-rune-4": {
+            "type": "rune",
+            "name": "Golden Rune [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(4)"
+        },
+        "golden-rune-5": {
+            "type": "rune",
+            "name": "Golden Rune [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(5)"
+        },
+        "golden-rune-6": {
+            "type": "rune",
+            "name": "Golden Rune [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(6)"
+        },
+        "golden-rune-7": {
+            "type": "rune",
+            "name": "Golden Rune [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(7)"
+        },
+        "golden-rune-8": {
+            "type": "rune",
+            "name": "Golden Rune [8]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(8)"
+        },
+        "golden-rune-9": {
+            "type": "rune",
+            "name": "Golden Rune [9]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(9)"
+        },
+        "golden-rune-10": {
+            "type": "rune",
+            "name": "Golden Rune [10]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(10)"
+        },
+        "golden-rune-11": {
+            "type": "rune",
+            "name": "Golden Rune [11]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(11)"
+        },
+        "golden-rune-12": {
+            "type": "rune",
+            "name": "Golden Rune [12]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(12)"
+        },
+        "golden-rune-13": {
+            "type": "rune",
+            "name": "Golden Rune [13]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(13)"
+        },
+        "numens-rune": {
+            "type": "rune",
+            "name": "Numen's Rune",
+            "wiki": "https://eldenring.wiki.fextralife.com/Numen's+Rune"
+        },
+        "heros-rune-1": {
+            "type": "rune",
+            "name": "Hero's Rune [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[1]"
+        },
+        "heros-rune-2": {
+            "type": "rune",
+            "name": "Hero's Rune [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[2]"
+        },
+        "heros-rune-3": {
+            "type": "rune",
+            "name": "Hero's Rune [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[3]"
+        },
+        "heros-rune-4": {
+            "type": "rune",
+            "name": "Hero's Rune [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[4]"
+        },
+        "heros-rune-5": {
+            "type": "rune",
+            "name": "Hero's Rune [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Hero's+Rune+[5]"
+        },
+        "lords-rune": {
+            "type": "rune",
+            "name": "Lord's Rune",
+            "wiki": "https://eldenring.wiki.fextralife.com/Lord's+Rune"
         },
         "church-of-elleh": {
             "type": "grace",
@@ -80,6 +175,46 @@
             "name": "Smithing Stone [1]",
             "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(1)"
         },
+        "smithing-stone-2": {
+            "type": "upgrade",
+            "name": "Smithing Stone [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(2)"
+        },
+        "smithing-stone-3": {
+            "type": "upgrade",
+            "name": "Smithing Stone [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(3)"
+        },
+        "smithing-stone-4": {
+            "type": "upgrade",
+            "name": "Smithing Stone [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(4)"
+        },
+        "smithing-stone-5": {
+            "type": "upgrade",
+            "name": "Smithing Stone [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(5)"
+        },
+        "smithing-stone-6": {
+            "type": "upgrade",
+            "name": "Smithing Stone [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(6)"
+        },
+        "smithing-stone-7": {
+            "type": "upgrade",
+            "name": "Smithing Stone [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(7)"
+        },
+        "smithing-stone-8": {
+            "type": "upgrade",
+            "name": "Smithing Stone [8]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(8)"
+        },
+        "ancient-dragon-smithing-stone": {
+            "type": "upgrade",
+            "name": "Ancient Dragon Smithing Stone",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Smithing+Stone"
+        },
         "kukuri": {
             "type": "consumable",
             "name": "Kukuri",
@@ -94,6 +229,411 @@
             "type": "tool",
             "name": "Spectral Steed Whistle",
             "wiki": "https://eldenring.wiki.fextralife.com/Spectral+Steed+Whistle"
+        },
+        "map-limgrave-west": {
+            "type": "map",
+            "name": "Map: Limgrave, West",
+            "wiki": "https://eldenring.wiki.fextralife.com/Map+(Limgrave,+West)"
+        },
+        "ruin-fragment": {
+            "type": "crafting",
+            "name": "Ruin Fragment",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ruin+Fragment"
+        },
+        "lordsworns-greatsword": {
+            "type": "greatsword",
+            "name": "Lordsworn's Greatsword",
+            "wiki": "https://eldenring.wiki.fextralife.com/Lordsworn's+Greatsword"
+        },
+        "flail": {
+            "type": "flail",
+            "name": "Flail",
+            "wiki": "https://eldenring.wiki.fextralife.com/Flail"
+        },
+        "storm-stomp": {
+            "type": "ash-of-war",
+            "name": "Ash of War: Storm Stomp",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ash+of+War:+Storm+Stomp"
+        },
+        "whetstone-knife": {
+            "type": "whetblade",
+            "name": "Whetstone Knife",
+            "wiki": "https://eldenring.wiki.fextralife.com/Whetstone+Knife"
+        },
+        "agheel-lake-north": {
+            "type": "grace",
+            "name": "Agheel Lake North",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=10&lat=-186.25&lng=105.430086&zoom=8"
+        },
+        "boc": {
+            "type": "npc",
+            "name": "Boc the Seamster",
+            "wiki": "https://eldenring.wiki.fextralife.com/Boc+the+Seamster"
+        },
+        "mushroom": {
+            "type": "crafting",
+            "name": "Mushroom",
+            "wiki": "https://eldenring.wiki.fextralife.com/Mushroom"
+        },
+        "arteria-leaf": {
+            "type": "crafting",
+            "name": "Arteria Leaf",
+            "wiki": "https://eldenring.wiki.fextralife.com/Arteria+Leaf"
+        },
+        "determination": {
+            "type": "ash-of-war",
+            "name": "Ash of War: Determination",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ash+of+War:+Determination"
+        },
+        "ranni": {
+            "type": "npc",
+            "name": "Ranni",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ranni+the+Witch"
+        },
+        "melina": {
+            "type": "npc",
+            "name": "Melina",
+            "wiki": "https://eldenring.wiki.fextralife.com/Melina"
+        },
+        "spirit-calling-bell": {
+            "type": "key",
+            "name": "Spirit Calling Bell",
+            "wiki": "https://eldenring.wiki.fextralife.com/Spirit+Calling+Bell"
+        },
+        "lone-wolf-ashes": {
+            "type": "spirit",
+            "name": "Lone Wolf Ashes",
+            "wiki": "https://eldenring.wiki.fextralife.com/Lone+Wolf+Ashes"
+        },
+        "nomadic-warriors-cookbook-1": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(1)"
+        },
+        "nomadic-warriors-cookbook-2": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(2)"
+        },
+        "nomadic-warriors-cookbook-3": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(3)"
+        },
+        "nomadic-warriors-cookbook-4": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(4)"
+        },
+        "nomadic-warriors-cookbook-5": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(5)"
+        },
+        "nomadic-warriors-cookbook-6": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(6)"
+        },
+        "nomadic-warriors-cookbook-7": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(7)"
+        },
+        "nomadic-warriors-cookbook-8": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [8]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(8)"
+        },
+        "nomadic-warriors-cookbook-9": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [9]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(9)"
+        },
+        "nomadic-warriors-cookbook-10": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [10]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(10)"
+        },
+        "nomadic-warriors-cookbook-11": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [11]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(11)"
+        },
+        "nomadic-warriors-cookbook-12": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [12]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(12)"
+        },
+        "nomadic-warriors-cookbook-13": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [13]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(13)"
+        },
+        "nomadic-warriors-cookbook-14": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [14]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(14)"
+        },
+        "nomadic-warriors-cookbook-15": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [15]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(15)"
+        },
+        "nomadic-warriors-cookbook-16": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [16]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(16)"
+        },
+        "nomadic-warriors-cookbook-17": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [17]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(17)"
+        },
+        "nomadic-warriors-cookbook-18": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [18]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(18)"
+        },
+        "nomadic-warriors-cookbook-19": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [19]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(19)"
+        },
+        "nomadic-warriors-cookbook-20": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [20]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(20)"
+        },
+        "nomadic-warriors-cookbook-21": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [21]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(21)"
+        },
+        "nomadic-warriors-cookbook-22": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [22]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(22)"
+        },
+        "nomadic-warriors-cookbook-23": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [23]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(23)"
+        },
+        "nomadic-warriors-cookbook-24": {
+            "type": "cookbook",
+            "name": "Nomadic Warrior's Cookbook [24]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Nomadic+Warrior's+Cookbook+(24)"
+        },
+        "armorers-cookbook-1": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(1)"
+        },
+        "armorers-cookbook-2": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(2)"
+        },
+        "armorers-cookbook-3": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(3)"
+        },
+        "armorers-cookbook-4": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(4)"
+        },
+        "armorers-cookbook-5": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(5)"
+        },
+        "armorers-cookbook-6": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(6)"
+        },
+        "armorers-cookbook-7": {
+            "type": "cookbook",
+            "name": "Armorer's Cookbook [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Armorer's+Cookbook+(7)"
+        },
+        "glintstone-craftsmans-cookbook-1": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(1)"
+        },
+        "glintstone-craftsmans-cookbook-2": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(2)"
+        },
+        "glintstone-craftsmans-cookbook-3": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(3)"
+        },
+        "glintstone-craftsmans-cookbook-4": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(4)"
+        },
+        "glintstone-craftsmans-cookbook-5": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(5)"
+        },
+        "glintstone-craftsmans-cookbook-6": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(6)"
+        },
+        "glintstone-craftsmans-cookbook-7": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(7)"
+        },
+        "glintstone-craftsmans-cookbook-8": {
+            "type": "cookbook",
+            "name": "Glintstone Craftsman's Cookbook [8]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Glintstone+Craftsman's+Cookbook+(8)"
+        },
+        "missionarys-cookbook-1": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(1)"
+        },
+        "missionarys-cookbook-2": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(2)"
+        },
+        "missionarys-cookbook-3": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(3)"
+        },
+        "missionarys-cookbook-4": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(4)"
+        },
+        "missionarys-cookbook-5": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [5]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(5)"
+        },
+        "missionarys-cookbook-6": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [6]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(6)"
+        },
+        "missionarys-cookbook-7": {
+            "type": "cookbook",
+            "name": "Missionary's Cookbook [7]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Missionary's+Cookbook+(7)"
+        },
+        "ancient-dragon-apostles-cookbook-1": {
+            "type": "cookbook",
+            "name": "Ancient Dragon Apostle's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Apostle's+Cookbook+(1)"
+        },
+        "ancient-dragon-apostles-cookbook-2": {
+            "type": "cookbook",
+            "name": "Ancient Dragon Apostle's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Apostle's+Cookbook+(2)"
+        },
+        "ancient-dragon-apostles-cookbook-3": {
+            "type": "cookbook",
+            "name": "Ancient Dragon Apostle's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Apostle's+Cookbook+(3)"
+        },
+        "ancient-dragon-apostles-cookbook-4": {
+            "type": "cookbook",
+            "name": "Ancient Dragon Apostle's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Ancient+Dragon+Apostle's+Cookbook+(4)"
+        },
+        "perfumers-cookbook-1": {
+            "type": "cookbook",
+            "name": "Perfumer's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Perfumer's+Cookbook+(1)"
+        },
+        "perfumers-cookbook-2": {
+            "type": "cookbook",
+            "name": "Perfumer's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Perfumer's+Cookbook+(2)"
+        },
+        "perfumers-cookbook-3": {
+            "type": "cookbook",
+            "name": "Perfumer's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Perfumer's+Cookbook+(3)"
+        },
+        "perfumers-cookbook-4": {
+            "type": "cookbook",
+            "name": "Perfumer's Cookbook [4]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Perfumer's+Cookbook+(4)"
+        },
+        "fevors-cookbook-1": {
+            "type": "cookbook",
+            "name": "Fevor's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Fevor's+Cookbook+(1)"
+        },
+        "fevors-cookbook-2": {
+            "type": "cookbook",
+            "name": "Fevor's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Fevor's+Cookbook+(2)"
+        },
+        "fevors-cookbook-3": {
+            "type": "cookbook",
+            "name": "Fevor's Cookbook [3]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Fevor's+Cookbook+(3)"
+        },
+        "frenzied-cookbook-1": {
+            "type": "cookbook",
+            "name": "Frenzied's Cookbook [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Frenzied's+Cookbook+(1)"
+        },
+        "frenzied-cookbook-2": {
+            "type": "cookbook",
+            "name": "Frenzied's Cookbook [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Frenzied's+Cookbook+(2)"
+        },
+        "lump-of-flesh": {
+            "type": "crafting",
+            "name": "Lump of Flesh",
+            "wiki": "https://eldenring.wiki.fextralife.com/Lump+of+Flesh"
+        },
+        "golden-seed": {
+            "type": "upgrade",
+            "name": "Golden Seed",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Seed"
+        },
+        "stonesword-key": {
+            "type": "key",
+            "name": "Stonesword Key",
+            "wiki": "https://eldenring.wiki.fextralife.com/Stonesword+Key"
+        },
+        "sitting-sideways": {
+            "type": "gesture",
+            "name": "Sitting Sideways",
+            "wiki": "https://eldenring.wiki.fextralife.com/Gestures"
+        },
+        "spirit-jellyfish-ashes": {
+            "type": "spirit",
+            "name": "Spirit Jellyfish Ashes",
+            "wiki": "https://eldenring.wiki.fextralife.com/Spirit+Jellyfish+Ashes"
+        },
+        "stormhill-shack": {
+            "type": "grace",
+            "name": "Stormhill Shack",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=527&lat=-181.148437&lng=94.980798&zoom=8"
+        },
+        "rodericka": {
+            "type": "npc",
+            "name": "Rodericka",
+            "wiki": "https://eldenring.wiki.fextralife.com/Roderika"
         }
     },
     "checkboxes": {
@@ -203,16 +743,120 @@
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1227s"
             },
             "110": {
-                "items": [ "spectral-steed-whistle" ],
-                "location": "Rest at the Gatefront grace to get a cut scene with Melina (she can also appear at various other sites of grace in Limgrave and Caelid). After accepting her accord she will give you the whistle.",
+                "items": [ "melina", "spectral-steed-whistle" ],
+                "location": "Rest at the Gatefront grace to get a cut scene with Melina (she can also appear at various other sites of grace in Limgrave and Caelid). After accepting her accord she will give you the Spectral Steed Whistle.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1352s"
             },
             "120": {
-                "items": [ "spectral-steed-whistle" ],
-                "location": "",
+                "items": [ "map-limgrave-west" ],
+                "location": "On a map pillar by the side of the road in Gatefront Ruins.",
                 "area": "limgrave-west",
-                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1352s"
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=45s"
+            },
+            "130": {
+                "items": { "ruin-fragment": 3 },
+                "location": "On a corpse in the south-west of Gatefront Ruins.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=82s"
+            },
+            "140": {
+                "items": [ "lordsworns-greatsword" ],
+                "location": "In the chest of the caravan that sits on the western edge of the Gatefront Ruins, near the Gatefront grace.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=109s"
+            },
+            "150": {
+                "items": [ "flail" ],
+                "location": "In the chest of the caravan that sits on the northern edge of the Gatefront Ruins.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=184s"
+            },
+            "160": {
+                "items": [ "storm-stomp", "whetstone-knife" ],
+                "location": "In the chest that is in the underground cellar of Gatefront Ruins.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=323s"
+            },
+            "170": {
+                "items": [ "agheel-lake-north" ],
+                "location": "Just off the northern side of the road, east of the Gatefront Ruins.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=365s"
+            },
+            "180": {
+                "items": { "boc": 1, "mushroom": 10 },
+                "location": "To the east of the telescope. He is disguised as a tree, hit him to dispel the disguise. Exhaust his dialogue by talking to him 3 times. He will give you 10 mushrooms",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=417s"
+            },
+            "190": {
+                "items": [ "arteria-leaf" ],
+                "location": "On the grass between Boc and the telescope.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=500s"
+            },
+            "200": {
+                "items": [ "determination" ],
+                "location": "Dropped by a Teardrop Scarab just west of the bridge that crosses Murkwater River.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=565s"
+            },
+            "210": {
+                "items": [ "smithing-stone-1" ],
+                "location": "On a corpse that's hanging over the ledge of the bridge that crosses Murkwater River.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=672s"
+            },
+            "220": {
+                "items": [ "golden-rune-1", "golden-rune-1", "golden-rune-1", "golden-rune-2", "golden-rune-3" ],
+                "location": "South of the Waypoint Runes there are several coffins with a golden rune.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=760s"
+            },
+            "230": {
+                "items": [ "ranni", "spirit-calling-bell", "lone-wolf-ashes" ],
+                "location": "After you received Torrent from Melina, Ranni will spawn at night at the Church of Elleh. She introduces herself as Renna. Exhaust her dialogue by talking to her 2 times. When you tell her you can call the spectral steed, she will give you the Spirit Calling Bell.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=812s"
+            },
+            "240": {
+                "items": [ "kale", "nomadic-warriors-cookbook-1" ],
+                "location": "Buy the Nomadic Warrior's Cookbook from Kalé at the Church of Elleh. You can also talk to him 2 more times to hear more about his story.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=948s"
+            },
+            "250": {
+                "items": [ "lump-of-flesh" ],
+                "location": "On the road up to Stormhill, where the troll jumps down just after the Gatefront grace.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=988s"
+            }
+        },
+        "stormhill": {
+            "10": {
+                "items": [ "golden-seed" ],
+                "location": "By a golden tree next to the road when you reach Stormhill, south of Stormhill Shack.",
+                "area": "stormhill",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1008s"
+            },
+            "20": {
+                "items": [ "stormhill-shack" ],
+                "location": "On the east side of the road that goes from Gatefront to Stormhill, past the golden tree.",
+                "area": "stormhill",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1021s"
+            },
+            "30": {
+                "items": [ "stonesword-key" ],
+                "location": "On some scaffolding in Stormhill Shack.",
+                "area": "stormhill",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1055s"
+            },
+            "40": {
+                "items": [ "rodericka", "sitting-sideways", "spirit-jellyfish-ashes" ],
+                "location": "Exhaust Rodericka her dialogue by talking to her 3 times. You will receive the Sitting Sideways gesture and she will give you the Spirit Jellyfish Ashes.",
+                "area": "stormhill",
+                "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1096s"
             }
         }
     }
