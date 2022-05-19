@@ -1,10 +1,219 @@
 {
-  "Episode #01": {
-    "01-item-a": "Item A",
-    "01-item-b": "Item B"
-  },
-  "Episode #02": {
-    "02-item-x": "Item X",
-    "02-item-y": "Item Y"
-  }
+    "items": {
+        "the-ring": {
+            "type": "gesture",
+            "name": "The Ring",
+            "wiki": "https://eldenring.wiki.fextralife.com/Gestures"
+        },
+        "wizened-finger": {
+            "type": "multiplayer",
+            "name": "Tarnished's Wizened Finger",
+            "wiki": "https://eldenring.wiki.fextralife.com/Tarnished%27s+Wizened+Finger"
+        },
+        "cave-of-knowledge": {
+            "type": "grace",
+            "name": "Cave of Knowledge",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=458&lat=-195.203125&lng=102.307751&zoom=8&code=mapA"
+        },
+        "soldier-of-godrick": {
+            "type": "boss",
+            "name": "Soldier of Godrick",
+            "wiki": "https://eldenring.wiki.fextralife.com/Soldier+of+Godrick"
+        },
+        "strength": {
+            "type": "gesture",
+            "name": "Strength!",
+            "wiki": "https://eldenring.wiki.fextralife.com/Gestures"
+        },
+        "stranded-graveyard": {
+            "type": "grace",
+            "name": "Stranded Graveyard",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=2&lat=-196.3125&lng=101.074932&zoom=8"
+        },
+        "finger-severer": {
+            "type": "multiplayer",
+            "name": "Finger Severer",
+            "wiki": "https://eldenring.wiki.fextralife.com/Finger+Severer"
+        },
+        "furled-finger": {
+            "type": "multiplayer",
+            "name": "Tarnished's Furled Finger",
+            "wiki": "https://eldenring.wiki.fextralife.com/Tarnished's+Furled+Finger"
+        },
+        "the-first-step": {
+            "type": "grace",
+            "name": "The First Step",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=457&lat=-195.257812&lng=100.316924&zoom=8"
+        },
+        "varre": {
+            "type": "npc",
+            "name": "White Mask Varré",
+            "wiki": "https://eldenring.wiki.fextralife.com/White+Mask+Varre"
+        },
+        "small-golden-effigy": {
+            "type": "multiplayer",
+            "name": "Small Golden Effigy",
+            "wiki": "https://eldenring.wiki.fextralife.com/Small+Golden+Effigy"
+        },
+        "golden-rune-2": {
+            "type": "rune",
+            "name": "Golden Rune [2]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Golden+Rune+(2)"
+        },
+        "church-of-elleh": {
+            "type": "grace",
+            "name": "Church of Elleh",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=355&lat=-192.460937&lng=100.200443&zoom=8"
+        },
+        "kale": {
+            "type": "npc",
+            "name": "Merchant Kalé",
+            "wiki": "https://eldenring.wiki.fextralife.com/Merchant+Kale"
+        },
+        "crafting-kit": {
+            "type": "key",
+            "name": "Crafting Kit",
+            "wiki": "https://eldenring.wiki.fextralife.com/Crafting+Kit"
+        },
+        "smithing-stone-1": {
+            "type": "upgrade",
+            "name": "Smithing Stone [1]",
+            "wiki": "https://eldenring.wiki.fextralife.com/Smithing+Stone+(1)"
+        },
+        "kukuri": {
+            "type": "consumable",
+            "name": "Kukuri",
+            "wiki": "https://eldenring.wiki.fextralife.com/Kukri"
+        },
+        "gatefront": {
+            "type": "grace",
+            "name": "Gatefront",
+            "wiki": "https://eldenring.wiki.fextralife.com/Interactive+Map?id=403&lat=-185.78125&lng=102.102529&zoom=8"
+        },
+        "spectral-steed-whistle": {
+            "type": "tool",
+            "name": "Spectral Steed Whistle",
+            "wiki": "https://eldenring.wiki.fextralife.com/Spectral+Steed+Whistle"
+        }
+    },
+    "checkboxes": {
+        "stranded-graveyard": {
+            "10": {
+                "items": [ "the-ring" ],
+                "location": "If you pre-ordered Elden Ring, you will receive this gesture automatically at the start of the game. If you did not pre-order you can still receive this gesture via co-op by helping someone who pre-ordered the game defeat a boss.",
+                "area": "chapel-of-anticipation",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=403s"
+            },
+            "20": {
+                "items": [ "wizened-finger" ],
+                "location": "On a corpse to your right.",
+                "area": "chapel-of-anticipation",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=406s"
+            },
+            "30": {
+                "items": [ "cave-of-knowledge" ],
+                "location": "After awaking in the Stranded Graveyard, jump down where the ghost is saying to take the plunge.",
+                "area": "stranded-graveyard",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=621s"
+            },
+            "40": {
+                "items": [ "soldier-of-godrick" ],
+                "location": "Behind the fog wall you encounter as you progress through the Cave of Knowledge.",
+                "area": "stranded-graveyard",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=773s"
+            },
+            "50": {
+                "items": [ "strength" ],
+                "location": "On a corpse on a ledge after Soldier of Godrick.",
+                "area": "stranded-graveyard",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=809s"
+            },
+            "60": {
+                "items": [ "stranded-graveyard" ],
+                "location": "After finishing the Cave of Knowledge, next to the Imp Statue Seal of Fringefolk Hero's Cave.",
+                "area": "stranded-graveyard",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=833s"
+            },
+            "70": {
+                "items": [ "finger-severer", "furled-finger" ],
+                "location": "On a corpse in the room with the Stranded Graveyard grace.",
+                "area": "stranded-graveyard",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=842s"
+            }
+        },
+        "limgrave-west": {
+            "10": {
+                "items": [ "the-first-step" ],
+                "location": "Straight ahead after leaving the Stranded Graveyard. White Mask Varré is standing next to the grace.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=833s"
+            },
+            "20": {
+                "items": [ "varre" ],
+                "location": "Standing next to the The First Step grace. Exhaust his dialogue by talking to him 3 times.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=871s"
+            },
+            "30": {
+                "items": [ "small-golden-effigy" ],
+                "location": "On the Effigy of the Martyr statue a few steps east from the The First Step grace.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=994s"
+            },
+            "40": {
+                "items": [ "golden-rune-2" ],
+                "location": "In front of the Church of Elleh at the bottom of the crucifixion stake.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1027s"
+            },
+            "50": {
+                "items": [ "church-of-elleh" ],
+                "location": "Inside the ruins of the Church of Elleh.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1039s"
+            },
+            "60": {
+                "items": [ "kale" ],
+                "location": "Found in the Church of Elleh. Talk to Kalé to learn more about him and the nomadic merchants.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1045s"
+            },
+            "70": {
+                "items": [ "crafting-kit" ],
+                "location": "Buy the Crafting Kit from Kallé.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1085s"
+            },
+            "80": {
+                "items": [ "smithing-stone-1" ],
+                "location": "On the smithing table in the Church of Elleh.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1099s"
+            },
+            "90": {
+                "items": { "kukuri": 4 },
+                "location": "On a corpse by the side of the road between the Church of Elleh and the Gatefront Ruins.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1139s"
+            },
+            "100": {
+                "items": [ "gatefront" ],
+                "location": "West of the Gatefront Ruins, just before the big gate.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1227s"
+            },
+            "110": {
+                "items": [ "spectral-steed-whistle" ],
+                "location": "Rest at the Gatefront grace to get a cut scene with Melina (she can also appear at various other sites of grace in Limgrave and Caelid). After accepting her accord she will give you the whistle.",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1352s"
+            },
+            "120": {
+                "items": [ "spectral-steed-whistle" ],
+                "location": "",
+                "area": "limgrave-west",
+                "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1352s"
+            }
+        }
+    }
 }
