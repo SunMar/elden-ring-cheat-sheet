@@ -637,223 +637,306 @@
         }
     },
     "checkboxes": {
-        "stranded-graveyard": {
-            "10": {
-                "items": [ "the-ring" ],
+        "episode-01": {
+            "55cb4af2-ff2e-45a3-81f2-8cf052d9432d": {
+                "items": [
+                    "the-ring"
+                ],
                 "location": "If you pre-ordered Elden Ring, you will receive this gesture automatically at the start of the game. If you did not pre-order you can still receive this gesture via co-op by helping someone who pre-ordered the game defeat a boss.",
                 "area": "chapel-of-anticipation",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=403s"
             },
-            "20": {
-                "items": [ "wizened-finger" ],
+            "337d35e7-acdd-4b24-b994-310110689a2f": {
+                "items": [
+                    "wizened-finger"
+                ],
                 "location": "On a corpse to your right.",
                 "area": "chapel-of-anticipation",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=406s"
             },
-            "30": {
-                "items": [ "cave-of-knowledge" ],
+            "cd540518-20d6-4d42-9692-ef05c4a5cdc5": {
+                "items": [
+                    "cave-of-knowledge"
+                ],
                 "location": "After awaking in the Stranded Graveyard, jump down where the ghost is saying to take the plunge.",
                 "area": "stranded-graveyard",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=621s"
             },
-            "40": {
-                "items": [ "soldier-of-godrick" ],
+            "7ae2c6d2-ac02-4ba0-846e-c24b039de9fb": {
+                "items": [
+                    "soldier-of-godrick"
+                ],
                 "location": "Behind the fog wall you encounter as you progress through the Cave of Knowledge.",
                 "area": "stranded-graveyard",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=773s"
             },
-            "50": {
-                "items": [ "strength" ],
+            "90bdd21f-6645-4ac3-975a-01c4963471f3": {
+                "items": [
+                    "strength"
+                ],
                 "location": "On a corpse on a ledge after Soldier of Godrick.",
                 "area": "stranded-graveyard",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=809s"
             },
-            "60": {
-                "items": [ "stranded-graveyard" ],
+            "dde4356a-f1cf-47b3-accf-ff1a0e9f4196": {
+                "items": [
+                    "stranded-graveyard"
+                ],
                 "location": "After finishing the Cave of Knowledge, next to the Imp Statue Seal of Fringefolk Hero's Cave.",
                 "area": "stranded-graveyard",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=833s"
             },
-            "70": {
-                "items": [ "finger-severer", "furled-finger" ],
+            "36f7c23d-88e5-4d30-9eaa-730cdff35d39": {
+                "items": [
+                    "finger-severer",
+                    "furled-finger"
+                ],
                 "location": "On a corpse in the room with the Stranded Graveyard grace.",
                 "area": "stranded-graveyard",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=842s"
-            }
-        },
-        "limgrave-west": {
-            "10": {
-                "items": [ "the-first-step" ],
+            },
+            "098cba76-cf03-44d8-b092-e15de24dfc32": {
+                "items": [
+                    "the-first-step"
+                ],
                 "location": "Straight ahead after leaving the Stranded Graveyard. White Mask Varré is standing next to the grace.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=833s"
             },
-            "20": {
-                "items": [ "varre" ],
+            "49a69342-103a-4ab8-a605-49f87edc4e18": {
+                "items": [
+                    "varre"
+                ],
                 "location": "Standing next to the The First Step grace. Exhaust his dialogue by talking to him 3 times.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=871s"
             },
-            "30": {
-                "items": [ "small-golden-effigy" ],
+            "843b0b98-2e16-4bc2-bfbd-ca1fb1fb7c58": {
+                "items": [
+                    "small-golden-effigy"
+                ],
                 "location": "On the Effigy of the Martyr statue a few steps east from the The First Step grace.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=994s"
             },
-            "40": {
-                "items": [ "golden-rune-2" ],
+            "030a1fbb-3c6a-4ca2-bf3b-4e8ef8341fd6": {
+                "items": [
+                    "golden-rune-2"
+                ],
                 "location": "In front of the Church of Elleh at the bottom of the crucifixion stake.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1027s"
             },
-            "50": {
-                "items": [ "church-of-elleh" ],
+            "792acd9c-0d9b-405a-a8c8-26fa20a5d6a3": {
+                "items": [
+                    "church-of-elleh"
+                ],
                 "location": "Inside the ruins of the Church of Elleh.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1039s"
             },
-            "60": {
-                "items": [ "kale" ],
+            "7fb367fe-57ae-4f29-8045-2f2a2179d4f7": {
+                "items": [
+                    "kale"
+                ],
                 "location": "Found in the Church of Elleh. Talk to Kalé to learn more about him and the nomadic merchants.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1045s"
             },
-            "70": {
-                "items": [ "crafting-kit" ],
+            "05379091-85ee-49be-bf14-5fcce953d38a": {
+                "items": [
+                    "crafting-kit"
+                ],
                 "location": "Buy the Crafting Kit from Kallé.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1085s"
             },
-            "80": {
-                "items": [ "smithing-stone-1" ],
+            "ea6f2ca6-326f-4a7f-acb9-82a1fa6b8587": {
+                "items": [
+                    "smithing-stone-1"
+                ],
                 "location": "On the smithing table in the Church of Elleh.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1099s"
             },
-            "90": {
-                "items": { "kukuri": 4 },
+            "108efe0e-f388-4932-829f-e3fc8aa97d01": {
+                "items": {
+                    "kukuri": 4
+                },
                 "location": "On a corpse by the side of the road between the Church of Elleh and the Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1139s"
             },
-            "100": {
-                "items": [ "gatefront" ],
+            "e8b54bd9-0ac7-4123-a351-d53d8fbf9011": {
+                "items": [
+                    "gatefront"
+                ],
                 "location": "West of the Gatefront Ruins, just before the big gate.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1227s"
             },
-            "110": {
-                "items": [ "melina", "spectral-steed-whistle" ],
+            "d5bd29df-fa97-4dea-89dd-23962d9f142a": {
+                "items": [
+                    "melina",
+                    "spectral-steed-whistle"
+                ],
                 "location": "Rest at the Gatefront grace to get a cut scene with Melina (she can also appear at various other sites of grace in Limgrave and Caelid). After accepting her accord she will give you the Spectral Steed Whistle.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=9Kn75xtLPDY&t=1352s"
-            },
-            "120": {
-                "items": [ "map-limgrave-west" ],
+            }
+        },
+        "episode-02": {
+            "d3fb54dc-a38d-40ab-b763-778ffb28e554": {
+                "items": [
+                    "map-limgrave-west"
+                ],
                 "location": "On a map pillar by the side of the road in Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=45s"
             },
-            "130": {
-                "items": { "ruin-fragment": 3 },
+            "e4dfdda1-ecd9-4c88-a3b0-a9d0fad6d4ba": {
+                "items": {
+                    "ruin-fragment": 3
+                },
                 "location": "On a corpse in the south-west of Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=82s"
             },
-            "140": {
-                "items": [ "lordsworns-greatsword" ],
+            "fa0ce9ab-b1d7-4531-a97a-0fca191b27bf": {
+                "items": [
+                    "lordsworns-greatsword"
+                ],
                 "location": "In the chest of the caravan that sits on the western edge of the Gatefront Ruins, near the Gatefront grace.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=109s"
             },
-            "150": {
-                "items": [ "flail" ],
+            "45c53d97-3b33-492a-aa34-3977dea28846": {
+                "items": [
+                    "flail"
+                ],
                 "location": "In the chest of the caravan that sits on the northern edge of the Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=184s"
             },
-            "160": {
-                "items": [ "storm-stomp", "whetstone-knife" ],
+            "5c869b1d-8f53-44d1-8f22-0fcb53fa96d6": {
+                "items": [
+                    "storm-stomp",
+                    "whetstone-knife"
+                ],
                 "location": "In the chest that is in the underground cellar of Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=323s"
             },
-            "170": {
-                "items": [ "agheel-lake-north" ],
+            "0340ba76-3516-44f6-8cb1-7016ed647be4": {
+                "items": [
+                    "agheel-lake-north"
+                ],
                 "location": "Just off the northern side of the road, east of the Gatefront Ruins.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=365s"
             },
-            "180": {
-                "items": { "boc": 1, "mushroom": 10 },
+            "32e24985-9fca-47c7-8f98-97bdb1442316": {
+                "items": {
+                    "boc": 1,
+                    "mushroom": 10
+                },
                 "location": "To the east of the telescope. He is disguised as a tree, hit him to dispel the disguise. Exhaust his dialogue by talking to him 3 times. He will give you 10 mushrooms",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=417s"
             },
-            "190": {
-                "items": [ "arteria-leaf" ],
+            "c2a4d319-e56c-4065-bee8-09d67b0a441f": {
+                "items": [
+                    "arteria-leaf"
+                ],
                 "location": "On the grass between Boc and the telescope.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=500s"
             },
-            "200": {
-                "items": [ "determination" ],
+            "80db98e3-c503-4fe8-8955-c66bfe87ae86": {
+                "items": [
+                    "determination"
+                ],
                 "location": "Dropped by a Teardrop Scarab just west of the bridge that crosses Murkwater River.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=565s"
             },
-            "210": {
-                "items": [ "smithing-stone-1" ],
+            "5d664891-d62d-4a25-82b1-7622ffb5ec8d": {
+                "items": [
+                    "smithing-stone-1"
+                ],
                 "location": "On a corpse that's hanging over the ledge of the bridge that crosses Murkwater River.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=672s"
             },
-            "220": {
-                "items": [ "golden-rune-1", "golden-rune-1", "golden-rune-1", "golden-rune-2", "golden-rune-3" ],
+            "1fa1d9cb-7e93-403b-a196-d46e5f8dec2d": {
+                "items": [
+                    "golden-rune-1",
+                    "golden-rune-1",
+                    "golden-rune-1",
+                    "golden-rune-2",
+                    "golden-rune-3"
+                ],
                 "location": "South of the Waypoint Runes there are several coffins with a golden rune.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=760s"
             },
-            "230": {
-                "items": [ "ranni", "spirit-calling-bell", "lone-wolf-ashes" ],
+            "a520e446-e714-4778-9ca9-8e6ba209f47d": {
+                "items": [
+                    "ranni",
+                    "spirit-calling-bell",
+                    "lone-wolf-ashes"
+                ],
                 "location": "After you received Torrent from Melina, Ranni will spawn at night at the Church of Elleh. She introduces herself as Renna. Exhaust her dialogue by talking to her 2 times. When you tell her you can call the spectral steed, she will give you the Spirit Calling Bell.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=812s"
             },
-            "240": {
-                "items": [ "kale", "nomadic-warriors-cookbook-1" ],
+            "840bcc5d-1d6c-4856-8ced-cc9d167e24ed": {
+                "items": [
+                    "kale",
+                    "nomadic-warriors-cookbook-1"
+                ],
                 "location": "Buy the Nomadic Warrior's Cookbook from Kalé at the Church of Elleh. You can also talk to him 2 more times to hear more about his story.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=948s"
             },
-            "250": {
-                "items": [ "lump-of-flesh" ],
+            "39d7b657-32e8-467b-a791-42ac2ca0529f": {
+                "items": [
+                    "lump-of-flesh"
+                ],
                 "location": "On the road up to Stormhill, where the troll jumps down just after the Gatefront grace.",
                 "area": "limgrave-west",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=988s"
-            }
-        },
-        "stormhill": {
-            "10": {
-                "items": [ "golden-seed" ],
+            },
+            "61f0542d-9d77-4506-b920-5bc05c9b4fdc": {
+                "items": [
+                    "golden-seed"
+                ],
                 "location": "By a golden tree next to the road when you reach Stormhill, south of Stormhill Shack.",
                 "area": "stormhill",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1008s"
             },
-            "20": {
-                "items": [ "stormhill-shack" ],
+            "82742274-2d3a-41ff-9e6e-ff2857b2e778": {
+                "items": [
+                    "stormhill-shack"
+                ],
                 "location": "On the east side of the road that goes from Gatefront to Stormhill, past the golden tree.",
                 "area": "stormhill",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1021s"
             },
-            "30": {
-                "items": [ "stonesword-key" ],
+            "252f2e95-23d8-444a-b577-7eca96991b23": {
+                "items": [
+                    "stonesword-key"
+                ],
                 "location": "On some scaffolding in Stormhill Shack.",
                 "area": "stormhill",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1055s"
             },
-            "40": {
-                "items": [ "rodericka", "sitting-sideways", "spirit-jellyfish-ashes" ],
+            "d91d13ee-0803-427a-9597-0bf5aeaa87c8": {
+                "items": [
+                    "rodericka",
+                    "sitting-sideways",
+                    "spirit-jellyfish-ashes"
+                ],
                 "location": "Exhaust Rodericka her dialogue by talking to her 3 times. You will receive the Sitting Sideways gesture and she will give you the Spirit Jellyfish Ashes.",
                 "area": "stormhill",
                 "guide": "https://www.youtube.com/watch?v=sCRSegSqNc4&t=1096s"

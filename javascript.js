@@ -27,9 +27,8 @@ const language = {
         }
     },
     'sections': {
-        'stranded-graveyard': 'Stranded Graveyard',
-        'limgrave-west': 'Limgrave (West)',
-        'stormhill': 'Stormhill',
+        'episode-01': 'Episode #01',
+        'episode-02': 'Episode #02',
     },
     'misc': {
         'done': 'DONE',
@@ -191,8 +190,7 @@ $(window).on('load', () => {
                 'total': 0,
             }
 
-            $.each(sectionList, (index, loot) => {
-                const checkboxId = sectionId + '-' + index;
+            $.each(sectionList, (checkboxId, loot) => {
                 const checkbox = createCheckbox(sectionId, checkboxId, loot, response.items);
                 const done = !!storage.checklist.get(checkboxId);
 
