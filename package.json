@@ -1,0 +1,11 @@
+{
+  "name": "eldering-ring-cheat-sheet",
+  "scripts": {
+    "start": "http-server -c-1",
+    "uuid": "convertCheckboxIdsToUuids.js"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "uuid": "^9.0.0"
+  }
+}

@@ -1,38 +1,7 @@
-const language = {
-    'items': {
-        'types': {
-            'gesture': 'Gesture',
-            'multiplayer': 'Multiplayer Item',
-            'grace': 'Site of Lost Grace',
-            'boss': 'Boss',
-            'npc': 'NPC',
-            'rune': 'Rune',
-            'key': 'Key Item',
-            'upgrade': 'Upgrade Material',
-            'consumable': 'Consumable Item',
-            'tool': 'Tool',
-            'crafting': 'Crafting Material',
-            'greatsword': 'Greatsword',
-            'flail': 'Flail',
-            'ash-of-war': 'Ash of War',
-            'whetblade': 'Whetblade',
-            'spirit': 'Spirit',
-            'cookbook': 'Cookbook',
-        },
-        'areas': {
-            'chapel-of-anticipation': 'Chapel of Anticipation',
-            'stranded-graveyard': 'Stranded Graveyard',
-            'limgrave-west': 'Limgrave (West)',
-            'stormhill': 'Stormhill',
-        }
-    },
-    'sections': {
-        'episode-01': 'Episode #01',
-        'episode-02': 'Episode #02',
-    },
-    'misc': {
-        'done': 'DONE',
-    }
+const data = {
+    'general': null,
+    'items': null,
+    'checkboxes': null,
 }
 
 const storage = {
@@ -47,14 +16,14 @@ function createSection(sectionId) {
 
     const accordionButton = $(`
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#${sectionId}-body" aria-expanded="false" aria-controls="${sectionId}-body">
-            ${language.sections[sectionId]}
+            ${data.checkboxes.sections[sectionId]}
             <span class="cs-progress border-danger bg-danger mx-2 px-2 border border-2 rounded-pill text-light">
                 <span id="${sectionId}-done"></span> / <span id="${sectionId}-total"></span>
             </span>
         </button>
     `);
 
-    const accordionButtonDone = $(`<span class="cs-done border-success bg-success mx-2 px-2 border border-2 rounded-pill text-light">${language.misc.done}</span>`);
+    const accordionButtonDone = $(`<span class="cs-done border-success bg-success mx-2 px-2 border border-2 rounded-pill text-light">${data.general.misc.done}</span>`);
     accordionButtonDone.hide();
 
     accordionButton.append(accordionButtonDone);
@@ -116,13 +85,27 @@ function createCheckbox(sectionId, checkboxId, loot, items) {
             item = value;
         }
 
-        itemList.push(`<a href="${items[item].wiki}" target="_blank">${count} ${items[item].name} (${language.items.types[items[item].type]})</a>`);
+        let name;
+
+        const itemLocationSeparator = item.indexOf(':');
+
+        if (itemLocationSeparator > -1) {
+            const itemLocation = item.substring(itemLocationSeparator+1);
+            item = item.substring(0, itemLocationSeparator);
+            name = items[item].name[itemLocation];
+        } else if (typeof items[item].name === "string") {
+            name = items[item].name;
+        } else {
+            name = items[item].name[Object.keys(items[item].name)[0]];
+        }
+
+        itemList.push(`<a href="${items[item].wiki}" target="_blank">${count} ${name} (${data.general.types[items[item].type]})</a>`);
     });
 
     label.html(`
         ${itemList.join(', ')}: ${loot.location}
         <a href="${loot.guide}" target="_blank"><i class="bi bi-play-btn"></i></a>
-        <span class="fst-italic">${language.items.areas[loot.area]}</span>
+        <span class="fst-italic">${data.general.areas[loot.area]}</span>
     `);
 
     const checkbox = $(`<div class="form-check py-1"></div>`);
@@ -174,13 +157,28 @@ $(window).on('load', () => {
         $('#resetChecklistModal').modal('hide');
     });
 
-    $.ajax("eldenring.json", {
+    const generalPromise = $.ajax('eldenring.general.json', {
         'dataType': 'json',
-        'cache': false,
     }).done((response) => {
+        data.general = response;
+    });
+
+    const itemsPromise = $.ajax('eldenring.items.json', {
+        'dataType': 'json',
+    }).done((response) => {
+        data.items = response;
+    });
+
+    const checkboxesPromise = $.ajax('eldenring.checkboxes.json', {
+        'dataType': 'json',
+    }).done((response) => {
+        data.checkboxes = response;
+    });
+
+    Promise.all([ generalPromise, itemsPromise, checkboxesPromise ]).then(() => {
         const checklist = $('#checklist');
 
-        $.each(response.checkboxes, (sectionId, sectionList) => {
+        $.each(data.checkboxes.list, (sectionId, sectionList) => {
             const section = createSection(sectionId);
 
             checklist.append(section);
@@ -191,7 +189,7 @@ $(window).on('load', () => {
             }
 
             $.each(sectionList, (checkboxId, loot) => {
-                const checkbox = createCheckbox(sectionId, checkboxId, loot, response.items);
+                const checkbox = createCheckbox(sectionId, checkboxId, loot, data.items.items);
                 const done = !!storage.checklist.get(checkboxId);
 
                 counters.total++;

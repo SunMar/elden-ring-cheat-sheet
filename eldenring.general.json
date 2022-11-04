@@ -1,0 +1,34 @@
+{
+    "types": {
+        "gesture": "Gesture",
+        "multiplayer": "Multiplayer Item",
+        "grace": "Site of Lost Grace",
+        "boss": "Boss",
+        "npc": "NPC",
+        "rune": "Rune",
+        "key": "Key Item",
+        "upgrade": "Upgrade Material",
+        "consumable": "Consumable Item",
+        "tool": "Tool",
+        "crafting": "Crafting Material",
+        "greatsword": "Greatsword",
+        "flail": "Flail",
+        "ash-of-war": "Ash of War",
+        "whetblade": "Whetblade",
+        "spirit": "Spirit",
+        "cookbook": "Cookbook",
+        "crystal-tear": "Crystal Tear",
+        "arrow": "Arrow",
+        "map": "Map",
+        "shield": "Shield"
+    },
+    "areas": {
+        "chapel-of-anticipation": "Chapel of Anticipation",
+        "stranded-graveyard": "Stranded Graveyard",
+        "limgrave-west": "Limgrave (West)",
+        "stormhill": "Stormhill"
+    },
+    "misc": {
+        "done": "DONE"
+    }
+}
